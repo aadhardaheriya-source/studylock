@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudyLock</string>
+    <string name="accessibility_service_label">StudyLock फोकस सेवा</string>
+    <string name="accessibility_service_description">स्टडी टाइम में विचलित करने वाले ऐप्स को ब्लॉक करने और स्क्रीन टाइम सीमा लागू करने के लिए उपयोग किया जाता है।</string>
+</resources>
